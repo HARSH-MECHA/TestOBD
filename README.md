@@ -18,7 +18,7 @@ The Python script `main.py` leverages a pre-trained model and a label map (`coco
 - **TensorFlow Lite:** Efficiently deploys machine learning models for edge devices.
 - **OpenCV:** Library for image and video processing.
 - **NumPy:** Scientific computing library for array manipulation and numerical operations.
-- 
+
 ## Files Included
 
 1. **main.py:**
